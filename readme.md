@@ -11,15 +11,11 @@ Please be concearned that the code is depended on bluepy, so it's only work on L
 ### Clone Project
 clone the project first using the command below.
 
-```bash
-`git clone https://gitlab.informatik.fb2.hs-intern.de/informatikprojektdeegenerws23/c2cprojekt.git` 
-```
-### navigate to Fahrzeugsteuerung_PC
+   ```bash
+   git clone https://github.com/YousefSGhanem/AnkiOverdrive.git
+   cd AnkiOverdrive
+   ```
 
-```bash
-cd Fahrzeugsteuerung_PC
-cd AnkiOverdrive
-```
 you can either execute it in the terminal or run it in a IDE (recommended: Pycharm)
 
 * for Terminal
