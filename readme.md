@@ -38,3 +38,8 @@ After starting the application, following Screen should open:
 
 [For more Infos click here](AnkiOverdrive/Fahrzeugsteuerung_Pc_Doku.pdf)
 
+
+## License
+
+This project is a university learning project and is intended for demonstration purpose
+
