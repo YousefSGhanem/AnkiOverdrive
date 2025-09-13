@@ -36,5 +36,5 @@ you can either execute it in the terminal or run it in a IDE (recommended: Pycha
 ## How to drive
 After starting the application, following Screen should open:
 
-[For more Infos click here](Fahrzeugsteuerung_Pc_Doku.pdf)
+[For more Infos click here](AnkiOverdrive/Fahrzeugsteuerung_Pc_Doku.pdf)
 
