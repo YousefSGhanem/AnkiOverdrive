@@ -21,7 +21,6 @@ you can either execute it in the terminal or run it in a IDE (recommended: Pycha
 * for Terminal
 1. execute `Start_Project.py`
 2. follow the instructions from the terminal
-3. 
 
 * on IDE 
 1. open Project in IDE
